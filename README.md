@@ -1,0 +1,1 @@
+# edukore.s
